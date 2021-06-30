@@ -1,0 +1,17 @@
+table {
+    border: 5px solid black;
+    width: auto;
+    margin:auto;
+    font-size: 14px;
+    border-collapse: collapse;
+    }
+th {
+    border: 1px solid #000000;
+    vertical-align: middle;
+    text-align: center;
+    }
+td {
+        border: 1px solid #000000;
+        vertical-align: middle;
+        text-align: left;
+    }
